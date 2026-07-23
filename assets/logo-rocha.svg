@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 150" role="img" aria-labelledby="title desc">
+  <title id="title">Rocha Empreendimentos</title>
+  <desc id="desc">S&#237;mbolo geom&#233;trico vermelho da Rocha e nome da empresa</desc>
+  <g transform="translate(4 4)">
+    <path d="M18 8h58c39 0 68 26 68 61 0 21-10 39-28 50L91 89c8-4 13-12 13-21 0-15-12-25-29-25H57v91H18z" fill="#7b1117"/>
+    <path d="M50 8h31l78 126h-42L50 27z" fill="#e4232b"/>
+    <path d="M18 78 50 47l26 42-58 45z" fill="#a7171d"/>
+  </g>
+  <g fill="#fff">
+    <text x="185" y="79" font-family="Arial, Helvetica, sans-serif" font-size="56" font-weight="800" letter-spacing="2">ROCHA</text>
+    <text x="187" y="111" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="500" letter-spacing="7">EMPREENDIMENTOS</text>
+  </g>
+</svg>
